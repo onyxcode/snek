@@ -1,0 +1,4 @@
+{
+  "TOKEN": "discord token here",
+  "MONGO_URI": "mongodb+srv://your-info-heret"
+}
